@@ -1,0 +1,14 @@
+disease,rows,usable_all,decision_all,usable_noMHC_noAPOE,decision_clean
+alzheimer,1093,202,ok,180,ok
+parkinson,489,156,ok,152,ok
+als,84,30,ok,29,ok
+ms,914,226,ok,220,ok
+schizophrenia,2172,509,cap to 500,474,ok
+bipolar,339,133,ok,125,ok
+mdd,1675,410,ok,374,ok
+adhd,157,48,ok,48,ok
+autism,34,19,EXCLUDE (<20),18,EXCLUDE (<20)
+epilepsy,93,43,ok,43,ok
+migraine,374,122,ok,120,ok
+crohn,647,190,ok,181,ok
+cad,1894,482,ok,470,ok
